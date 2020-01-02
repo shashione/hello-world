@@ -1,3 +1,3 @@
 # hello-world
 Hi World
-My name is shashi and stating with GITHUB
+My name is shashi and starting with GITHUB
